@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaibhav
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning flutter, python
+- 👀 I’m into mobile app development
+- 🌱 I’m flutter/dart/firebase expert.
 - 📫 How to reach me ...vaibhav.sultania@gmail.com
 
 <!---
